@@ -62,7 +62,11 @@ Letting everyone know that no idea is stupid, and if we can think of a way to co
 
 How you will identify tasks, assign tasks, know when they are complete, and manage work in general?
 
+We will assign the project on whiteboard, and write down names next to different task that we need.
+
 What project management tool will be used?
+
+We will use Whiteboard.
 
 ## Presentation Deck
 
