@@ -72,17 +72,4 @@ Link to the shared doc in your project plan.
 
 ## Git Process
 
-What components of your project will live on GitHub?
-
-How will you share the repository with your teammates?
-
-What is your Git flow?
-
-Will you be using a PR review workflow? If so, consider:
-How many people must review a PR?
-
-Who merges PRs?
-
-How often will you merge?
-
-How will you communicate that it’s time to merge?
+All of our project will exist on GitHub. The tree of us will all work as collaborators on the project. We will work together to merge PRs and we will merge after each request comes through. We will communicate in remo and slack to update eachother on new PRs and merges.
